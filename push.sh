@@ -23,5 +23,5 @@ git commit -a -m "Update docs"
 # push to the origin
 git push origin gitbook
 
-# checkout to the main branch
-git checkout main
+# checkout to the master branch
+git checkout master
